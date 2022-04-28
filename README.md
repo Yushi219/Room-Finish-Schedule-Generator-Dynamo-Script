@@ -1,5 +1,8 @@
 # Room-Finish-Schedule-Generator-Dynamo-Script
-The Dynamo script automatically adds the area, material, and orientation of room's floor, ceiling, wall to the Room Schedule through the "Room.Finish" node
+Room Finish Schedule Generator is a solution designed for use in the Dynamo environment. The solution is designed to calculate and add the area of the room's floor, ceiling, and walls to the Room Schedule.  Doors and windows are identified as belonging to the wall and the area is deducted. The solution also contains functions to list finish material and wall orientation. The key node in the script is "Room Finish" from Clockwork package and several customized python node. Room Finish Schedule Generator is the most coherent solution besides Roombook released by Autodesk. 
+
+The aspect of the script that needs to be upgraded is the recognition of the curtain facade, curve wall, and stacked wall. In addition, if you want to automatically generate parameters in Room Schedule, you can refer to the discussion in the link: "https://forum.dynamobim.com/t/dynamo-for-batch-adding-shared-parameters-to-project/5888", there is a related Dynamo script that can convert Excel data into parameters in Schedule
+
 ![image](https://user-images.githubusercontent.com/55901325/165414270-3d389000-e3a5-4398-8ba5-2eccf0abf86d.png)
 
 Software environment: Dynamo 2.6 (Revit 2021)
