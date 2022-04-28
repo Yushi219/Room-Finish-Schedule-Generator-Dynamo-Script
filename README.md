@@ -15,6 +15,7 @@ Script Group Color Set： Pink - Data Input;  Blue - Data Output;  Green - Data 
 
 
 Revit Schedule Pre-Set: 
+
 Step 1: Create Room Schedule in Revit
 
 Step 2: Add "Name" to schedule fields, and create 28 new Project Parameters in "Text" type with name of 
