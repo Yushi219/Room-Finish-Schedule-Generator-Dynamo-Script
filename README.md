@@ -3,7 +3,8 @@ Room Finish Schedule Generator is a solution designed for use in the Dynamo envi
 
 The aspect of the script that needs to be upgraded is the recognition of the curtain facade, curve wall, and stacked wall. In addition, if you want to automatically generate parameters in Room Schedule, you can refer to the discussion in the link: "https://forum.dynamobim.com/t/dynamo-for-batch-adding-shared-parameters-to-project/5888", there is a related Dynamo script that can convert Excel data into parameters in Schedule
 
-![image](https://user-images.githubusercontent.com/55901325/165414270-3d389000-e3a5-4398-8ba5-2eccf0abf86d.png)
+![Room Finish Script V1 0_2022-04-28_03-24-18](https://user-images.githubusercontent.com/55901325/165857709-74523795-9efe-466b-8f14-1f025954c454.png)
+
 
 Software environment: Dynamo 2.6 (Revit 2021)
 
