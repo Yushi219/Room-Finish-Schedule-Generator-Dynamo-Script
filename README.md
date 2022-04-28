@@ -11,7 +11,10 @@ Revit Model Samples file: "Room Finish Example.rvt" is example with completely s
 
 Script Package Pre-download: Clockwork 
 
-Revit Schedule Set: 
+Script Group Color Set： Pink - Data Input;  Blue - Data Output;  Green - Data Operation
+
+
+Revit Schedule Pre-Set: 
 Step 1: Create Room Schedule in Revit
 
 Step 2: Add "Name" to schedule fields, and create 28 new Project Parameters in "Text" type with name of 
